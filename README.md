@@ -32,7 +32,7 @@ I built this project to solve that exact pain point: **a fully automated, end-to
 
 
 1. **Extract**: Pulls data from local files or databases
-2. **Transform**: Handles missing values, standardizes types, engineers features (MoM, margins, dates)
+2. **Transform**: Handles missing values, standardizes types, and engineers features (MoM, margins, dates)
 3. **Analyze**: Calculates business KPIs (Revenue, AOV, Top Categories, Profitability)
 4. **Visualize**: Generates clean, branded PDFs with embedded charts
 5. **Deliver**: Emails reports automatically or triggers Slack/webhook alerts
@@ -89,6 +89,7 @@ You’ll see a PDF generated in data/output/ and an email delivered to your conf
 
 ⏱️ Automation & CI/CD
 This repo uses GitHub Actions to run the pipeline automatically:
+
 📅 Scheduled: Every Monday at 9 AM UTC (customizable)
 🖱️ Manual: Click Run workflow in the Actions tab
 🔐 Secure: All credentials stored in GitHub Secrets
