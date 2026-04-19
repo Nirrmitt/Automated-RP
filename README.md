@@ -3,7 +3,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)](https://python.org)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
-[![CI Status](https://github.com/YOUR_USERNAME/automated-retail-reporter/actions/workflows/run-report.yml/badge.svg)](https://github.com/YOUR_USERNAME/automated-retail-reporter/actions)
+[![CI Status](https://github.com/nirrmitt/automated-retail-reporter/actions/workflows/run-report.yml/badge.svg)](https://github.com/nirrmitt/automated-retail-reporter/actions)
 
 ---
 
@@ -63,7 +63,7 @@ I built this project to solve that exact pain point: **a fully automated, end-to
 - A Gmail account (for sending reports via App Password)
 
 ### 📦 Local Setup
-```powershell
+ ```
 # 1. Clone & navigate
 git clone https://github.com/YOUR_USERNAME/automated-retail-reporter.git
 cd automated-retail-reporter
@@ -102,8 +102,8 @@ EMAIL_RECIPIENTS: Comma-separated email list
 
 🧪 Testing & Quality
 ```
-powershell
-pytest tests/ -v ```
+pytest tests/ -v
+```
 
 
 ✅ Validates data cleaning logic
@@ -117,7 +117,7 @@ pytest tests/ -v ```
 📁 Data isolation: Raw/output data ignored via .gitignore
 📜 Modular design: Each step is independently testable and swappable
 
-📈 What’s Next
+## 📈 What’s Next
 Connect to live SQL/BigQuery/Snowflake sources
 Add Power BI REST API for dashboard refreshes
 Implement data quality checks with Great Expectations
@@ -132,7 +132,7 @@ Designing for maintainability, not just functionality
 Thinking like a stakeholder: What do they actually need to make decisions?
 Treating data pipelines like software: versioned, tested, documented, and monitored
 
-🤝 Connect & Contribute
+## 🤝 Connect & Contribute
 I’m always open to feedback, collaboration, or chat about analytics engineering, automation, or data storytelling.
 📧 Email: your.email@example.com
 🌐 Portfolio: https://nirrmitt.github.io/NRT-Terminal
@@ -140,5 +140,5 @@ I’m always open to feedback, collaboration, or chat about analytics engineerin
 🐙 GitHub: @YOUR_USERNAME
 🔧 Found a bug or have an idea? Open an issue or submit a PR. I review all contributions!
 
-📜 License
-MIT © Your Name — Feel free to use, adapt, and build upon this for your own projects or learning journey.
+### 📜 License
+MIT ©Nirrmitt Feel free to use, adapt, and build upon this for your own projects or learning journey.
