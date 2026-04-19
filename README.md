@@ -107,14 +107,23 @@ pytest tests/ -v
 
 
 ✅ Validates data cleaning logic
+
 ✅ Ensures KPI calculations return expected structures
+
 ✅ Catches missing columns or type mismatches early
+
 🔄 Runs automatically on every push via CI
+
 🔒 Security & Best Practices
+
 🔐 No hardcoded credentials: Uses .env + GitHub Secrets
+
 📦 Dependency pinning: requirements.txt locks versions for reproducibility
+
 🛡️ Graceful error handling: Pipeline fails loudly with clear logs instead of silently breaking
+
 📁 Data isolation: Raw/output data ignored via .gitignore
+
 📜 Modular design: Each step is independently testable and swappable
 
 ## 📈 What’s Next
@@ -131,14 +140,18 @@ Writing code that runs reliably without human babysitting
 Designing for maintainability, not just functionality
 Thinking like a stakeholder: What do they actually need to make decisions?
 Treating data pipelines like software: versioned, tested, documented, and monitored
-
 ## 🤝 Connect & Contribute
 I’m always open to feedback, collaboration, or chat about analytics engineering, automation, or data storytelling.
+
 📧 Email: nirrmit.rtickoo@gmail.com
-🌐 Portfolio: https://nirrmitt.github.io/NRT-Terminal
-💼 LinkedIn: 
-🐙 GitHub: @nirrmitt
+
+🌐 Portfolio: [NRT](https://nirrmitt.github.io/NRT-Terminal)
+
+💼 LinkedIn: [Nirrmit R. Tickoo](https://www.linkedin.com/in/n-r-t/)
+
+🐙 GitHub: [ @nirrmitt](https://github.com/Nirrmitt)
+
 🔧 Found a bug or have an idea? Open an issue or submit a PR. I review all contributions!
 
 ### 📜 License
-MIT ©Nirrmitt Feel free to use, adapt, and build upon this for your own projects or learning journey.
+MIT ©[Nirrmitt](https://nirrmitt.github.io/NRT-Terminal) Feel free to use, adapt, and build upon this for your own projects or learning journey.
