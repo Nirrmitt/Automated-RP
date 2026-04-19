@@ -1,5 +1,5 @@
 # 🛒 Automated Retail Analytics Reporter
-> A Python-powered pipeline that turns raw retail data into polished, scheduled PDF reports — no manual Excel work required.
+> A Python-powered pipeline that turns raw retail data into polished, scheduled PDF reports, no manual Excel work required.
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)](https://python.org)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
@@ -10,7 +10,7 @@
 ##  Why I Built This
 In retail and e-commerce, teams often waste hours every week pulling data, cleaning it in Excel, building charts, and emailing stakeholders. That’s slow, error-prone, and leaves analysts doing copy-paste work instead of uncovering insights.
 
-I built this project to solve that exact pain point: **a fully automated, end-to-end reporting pipeline** that extracts data, calculates KPIs, generates a branded PDF, and delivers it to stakeholders — on a schedule, with zero manual intervention.
+I built this project to solve that exact pain point: **a fully automated, end-to-end reporting pipeline** that extracts data, calculates KPIs, generates a branded PDF, and delivers it to stakeholders, on a schedule, with zero manual intervention.
 
 ---
 
@@ -134,10 +134,10 @@ Treating data pipelines like software: versioned, tested, documented, and monito
 
 ## 🤝 Connect & Contribute
 I’m always open to feedback, collaboration, or chat about analytics engineering, automation, or data storytelling.
-📧 Email: your.email@example.com
+📧 Email: nirrmit.rtickoo@gmail.com
 🌐 Portfolio: https://nirrmitt.github.io/NRT-Terminal
-💼 LinkedIn: [Your LinkedIn URL]
-🐙 GitHub: @YOUR_USERNAME
+💼 LinkedIn: 
+🐙 GitHub: @nirrmitt
 🔧 Found a bug or have an idea? Open an issue or submit a PR. I review all contributions!
 
 ### 📜 License
