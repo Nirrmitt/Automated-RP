@@ -3,7 +3,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)](https://python.org)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
-[![CI Status](https://github.com/nirrmitt/automated-retail-reporter/actions/workflows/run-report.yml/badge.svg)](https://github.com/nirrmitt/automated-retail-reporter/actions)
 
 ---
 
